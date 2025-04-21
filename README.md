@@ -1,5 +1,3 @@
-# titanic-exploratory-analysis
-
 # 🚢 Titanic Dataset Investigation (Exploratory Data Analysis)
 
 Repository ini berisi script Python untuk melakukan eksplorasi awal (exploratory data analysis / EDA) terhadap dataset Titanic. Analisis ini mencakup pemeriksaan struktur data, ringkasan statistik, pencarian duplikat dan nilai yang hilang, serta penanganannya.
