@@ -20,7 +20,10 @@ Analisis ini menjawab beberapa pertanyaan dasar seputar data:
 4. **Pemeriksaan Missing Values**
    - Cek nilai hilang dengan `.isnull().sum()`
    - Hitung persentase missing value
-   - Penanganan: `dropna()` atau `fillna()` sesuai konteks
+   - Penanganan: mean imputation
+
+5. **Feature Important**
+   - Melihat variabel yang paling berperan pada tingkat keselamatan penumpang
 
 ## 🛠 Library yang Digunakan
 
